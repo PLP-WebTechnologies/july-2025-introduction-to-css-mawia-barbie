@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(66, 66, 65);
+    justify-content: center;
+}
+h1{
+    text-transform: uppercase;
+    font-style: normal;
+}
+
+
+
+.countries{
+    background-color: #00ffff;
+    font-size: larger;
+    margin: 15px 0;
+    border-radius: 8px;
+    padding: 20px;
+    font-style: oblique;
+
+}
+.kenya{
+    background-color: aquamarine;
+    font-size: larger;
+    margin: 15px 0;
+    border-radius: 8px;
+    padding: 20px;
+    font-style: oblique;
+
+}
+.uganda{
+    background-color: rgb(82, 179, 179);
+    font-size: larger;
+    margin: 15px 0;
+    border-radius: 8px;
+    padding: 20px;
+    font-style: oblique;
+}
